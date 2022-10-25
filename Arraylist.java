@@ -18,8 +18,8 @@ public class Arraylist {
 		int length=l.size();
 		System.out.println(l);
 
-		
-		
+		System.out.println("kani);
+	
 		
 		
 		
