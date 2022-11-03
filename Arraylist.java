@@ -17,7 +17,7 @@ public class Arraylist {
 		l.add(98);
 		int length=l.size();
 		System.out.println(l);
-
+int a=0;
 		System.out.println("kani);
 	
 		
